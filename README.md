@@ -1,3 +1,16 @@
+<style>
+  h1 {
+    color: red;
+    font-size: 24px;
+  }
+
+  h2 {
+    font-family: Arial, sans-serif;
+    text-align: justify;
+  }
+</style>
+
+ 
  <h1 align="center">Hello World!! i´am Boring</h1>
 
 <div align="center">
@@ -34,6 +47,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+
 
 ###
 
