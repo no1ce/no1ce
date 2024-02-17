@@ -1,14 +1,4 @@
-<style>
-  h1 {
-    color: red;
-    font-size: 24px;
-  }
 
-  h2 {
-    font-family: Arial, sans-serif;
-    text-align: justify;
-  }
-</style>
 
  
  <h1 align="center">Hello World!! i´am Boring</h1>
