@@ -7,16 +7,17 @@
 
 
  
- <h1 align="center">Hallo!
+ <h1 align="center">Hallo!</h1>
 
-Ich bin Sebastian, ein Student der Netzwerktechnik in Rostock. Ich bin begeistert von der Welt der Netzwerke und interessiere mich für alles, was damit zu tun hat, von der Funktionsweise von Routern und Switches bis hin zur Sicherheit und Optimierung von Netzwerken.
+<p>Ich bin Sebastian, ein Student der Netzwerktechnik in Rostock. Ich bin begeistert von der Welt der Netzwerke und interessiere mich für alles, was damit zu tun hat, von der Funktionsweise von Routern und Switches bis hin zur Sicherheit und Optimierung von Netzwerken.
 
-Auf meinem GitHub-Profil findest du:
+<h2>Auf meinem GitHub-Profil findest du:</h2>
 
-Projekte: Ich veröffentliche hier meine Code-Projekte aus dem Bereich der Netzwerktechnik. Dazu gehören z. B. Skripte zur Automatisierung von Netzwerkaufgaben, Konfigurationen von Netzwerkgeräten und Simulationen von Netzwerken.
-Lernmaterial: Ich teile hier auch Notizen, Tutorials und andere Ressourcen, die ich zum Lernen von Netzwerktechnik verwende.
-Beiträge zu Open-Source-Projekten: Ich beteilige mich aktiv an Open-Source-Projekten im Bereich der Netzwerktechnik.
-Ich bin immer offen für neue Herausforderungen und lerne gerne dazu. Wenn du also ein interessantes Projekt im Bereich der Netzwerktechnik hast, an dem ich mitarbeiten kann, oder wenn du einfach nur Fragen zu Netzwerken hast, dann melde dich gerne bei mir!</h1>
+<h2>Projekte:</h2> Ich veröffentliche hier meine Code-Projekte aus dem Bereich der Netzwerktechnik. Dazu gehören z. B. Skripte zur Automatisierung von Netzwerkaufgaben, Konfigurationen von Netzwerkgeräten und Simulationen von Netzwerken.
+
+<h2>Lernmaterial:</h2> Ich teile hier auch Notizen, Tutorials und andere Ressourcen, die ich zum Lernen von Netzwerktechnik verwende.
+
+Ich bin immer offen für neue Herausforderungen und lerne gerne dazu. Wenn du also ein interessantes Projekt im Bereich der Netzwerktechnik hast, an dem ich mitarbeiten kann, oder wenn du einfach nur Fragen zu Netzwerken hast, dann melde dich gerne bei mir!</p>
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=no1ce&theme=highcontrast&border_radius=10&locale=de&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
