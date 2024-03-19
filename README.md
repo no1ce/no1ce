@@ -13,9 +13,9 @@
 
 <h2 align="center">Auf meinem GitHub-Profil findest du:</h2>
 
-<h2>Projekte:</h2> Ich veröffentliche hier meine Code-Projekte aus dem Bereich der Netzwerktechnik. Dazu gehören z. B. Skripte zur Automatisierung von Netzwerkaufgaben, Konfigurationen von Netzwerkgeräten und Simulationen von Netzwerken.
+<h2 align="center">Projekte</h2> Ich veröffentliche hier meine Code-Projekte aus dem Bereich der Netzwerktechnik. Dazu gehören z. B. Skripte zur Automatisierung von Netzwerkaufgaben, Konfigurationen von Netzwerkgeräten und Simulationen von Netzwerken.
 
-<h2>Lernmaterial:</h2> Ich teile hier auch Notizen, Tutorials und andere Ressourcen, die ich zum Lernen von Netzwerktechnik verwende.
+<h2 align="center">Lernmaterial</h2> Ich teile hier auch Notizen, Tutorials und andere Ressourcen, die ich zum Lernen von Netzwerktechnik verwende.
 
 Ich bin immer offen für neue Herausforderungen und lerne gerne dazu. Wenn du also ein interessantes Projekt im Bereich der Netzwerktechnik hast, an dem ich mitarbeiten kann, oder wenn du einfach nur Fragen zu Netzwerken hast, dann melde dich gerne bei mir!</p>
 
