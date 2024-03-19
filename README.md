@@ -11,7 +11,7 @@
 
 <p>Ich bin Sebastian, ein Student der Netzwerktechnik in Rostock. Ich bin begeistert von der Welt der Netzwerke und interessiere mich für alles, was damit zu tun hat, von der Funktionsweise von Routern und Switches bis hin zur Sicherheit und Optimierung von Netzwerken.
 
-<h2>Auf meinem GitHub-Profil findest du:</h2>
+<h2 align="center">Auf meinem GitHub-Profil findest du:</h2>
 
 <h2>Projekte:</h2> Ich veröffentliche hier meine Code-Projekte aus dem Bereich der Netzwerktechnik. Dazu gehören z. B. Skripte zur Automatisierung von Netzwerkaufgaben, Konfigurationen von Netzwerkgeräten und Simulationen von Netzwerken.
 
