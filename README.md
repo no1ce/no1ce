@@ -9,7 +9,7 @@
  
  <h1 align="center">Hallo!
 
-Ich bin [Dein Name], ein Student der Netzwerktechnik in Rostock. Ich bin begeistert von der Welt der Netzwerke und interessiere mich für alles, was damit zu tun hat, von der Funktionsweise von Routern und Switches bis hin zur Sicherheit und Optimierung von Netzwerken.
+Ich bin Sebastian, ein Student der Netzwerktechnik in Rostock. Ich bin begeistert von der Welt der Netzwerke und interessiere mich für alles, was damit zu tun hat, von der Funktionsweise von Routern und Switches bis hin zur Sicherheit und Optimierung von Netzwerken.
 
 Auf meinem GitHub-Profil findest du:
 
